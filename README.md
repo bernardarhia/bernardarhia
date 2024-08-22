@@ -23,7 +23,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on Articluate
-(https://github.com/bernardarhia/Articulate)  
+(https://github.com/bernardarhia/paystackly)  
   
 
 - 🌱 I’m currently learning Docker  
